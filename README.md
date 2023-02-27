@@ -12,7 +12,7 @@ jjjj
 `/reset` will resawefet the data in the dataawefbase with a load of:
  - users
  - jokesjjjj
- - heckles
+ - hecklesawef
   awefafweawefawefawef
 `/feed` shaows the jokes/heckles that are relevant to the current user.
 awefyyyy
